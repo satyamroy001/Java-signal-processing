@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/satyamroy001/Java-signal-processing">
-    <img src="HUE C++(1)" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/satyamroy001/Java-signal-processing/main/HUE%20C%2B%2B(1).png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>

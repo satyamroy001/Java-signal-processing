@@ -186,13 +186,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-2-red
 [contributors-url]: https://github.com/satyamroy001/Java-signal-processing/pulse
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/badge/FORK-0-green
 [forks-url]: https://github.com/login?return_to=%2Fsatyamroy001%2FJava-signal-processing
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/badge/STAR-0-yellow
+[stars-url]: https://github.com/login?return_to=%2Fsatyamroy001%2FJava-signal-processing
+[issues-shield]: https://img.shields.io/badge/ISSUES-0-red
+[issues-url]: https://github.com/satyamroy001/Java-signal-processing/issues
+[license-shield]: https://img.shields.io/badge/LISENCE-MIT-red
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-shield]: https://img.shields.io/badge/LINKEDIN-SATYAM%20ROY-blue
+[linkedin-url]: https://www.linkedin.com/in/satyam-roy-6250a2165/

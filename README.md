@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/satyamroy001/Java-signal-processing/main/HUE%20C%2B%2B(1).png" alt="Logo" width="500" height="500">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">SIGNAL PROCESSING TECHNIQUES WITH JAVA!!</h3>
 
   <p align="center">
     project_description

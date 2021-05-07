@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/satyamroy001/Java-signal-processing">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.canva.com/design/DAEVhNPDABM/DxH52pfMrqxGAAsFYyYg_Q/view?utm_content=DAEVhNPDABM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>
